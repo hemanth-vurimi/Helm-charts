@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  app-deploy:
+  - apiVersion: v2
+    created: "2026-03-08T05:47:45.431352173Z"
+    description: A Helm chart for Kubernetes
+    digest: 2f44bd8df7bae13f5b33f1e63ad1be89c077df396bd9da56c84a16fdac1f7837
+    maintainers:
+    - name: Hemant
+    name: app-deploy
+    type: application
+    urls:
+    - app-deploy-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-08T05:47:45.431111111Z"
